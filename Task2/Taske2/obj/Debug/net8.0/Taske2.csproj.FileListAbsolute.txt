@@ -1,0 +1,14 @@
+C:\Users\Qusay\source\repos\Taske2\Taske2\bin\Debug\net8.0\Taske2.exe
+C:\Users\Qusay\source\repos\Taske2\Taske2\bin\Debug\net8.0\Taske2.deps.json
+C:\Users\Qusay\source\repos\Taske2\Taske2\bin\Debug\net8.0\Taske2.runtimeconfig.json
+C:\Users\Qusay\source\repos\Taske2\Taske2\bin\Debug\net8.0\Taske2.dll
+C:\Users\Qusay\source\repos\Taske2\Taske2\bin\Debug\net8.0\Taske2.pdb
+C:\Users\Qusay\source\repos\Taske2\Taske2\obj\Debug\net8.0\Taske2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qusay\source\repos\Taske2\Taske2\obj\Debug\net8.0\Taske2.AssemblyInfoInputs.cache
+C:\Users\Qusay\source\repos\Taske2\Taske2\obj\Debug\net8.0\Taske2.AssemblyInfo.cs
+C:\Users\Qusay\source\repos\Taske2\Taske2\obj\Debug\net8.0\Taske2.csproj.CoreCompileInputs.cache
+C:\Users\Qusay\source\repos\Taske2\Taske2\obj\Debug\net8.0\Taske2.dll
+C:\Users\Qusay\source\repos\Taske2\Taske2\obj\Debug\net8.0\refint\Taske2.dll
+C:\Users\Qusay\source\repos\Taske2\Taske2\obj\Debug\net8.0\Taske2.pdb
+C:\Users\Qusay\source\repos\Taske2\Taske2\obj\Debug\net8.0\Taske2.genruntimeconfig.cache
+C:\Users\Qusay\source\repos\Taske2\Taske2\obj\Debug\net8.0\ref\Taske2.dll
